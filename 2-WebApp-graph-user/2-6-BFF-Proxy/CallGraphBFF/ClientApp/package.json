@@ -16,7 +16,7 @@
     "reactstrap": "^9.1.1",
     "rimraf": "^3.0.2",
     "web-vitals": "^2.1.4",
-    "workbox-background-sync": "^6.5.3",
+    "workbox-background-sync": "^6.6.0",
     "workbox-broadcast-update": "^6.5.3",
     "workbox-cacheable-response": "^6.5.3",
     "workbox-core": "^6.5.3",
